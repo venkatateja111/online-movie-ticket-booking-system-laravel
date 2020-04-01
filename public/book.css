@@ -1,0 +1,51 @@
+
+            img{
+                height: 600px;
+                width: auto;
+                margin-left: 40px;
+                margin-top: 30px;
+            }
+            body{
+             background: url("img/book2.jpg");
+             background-size: cover;
+                }
+                h1{
+                    color: red;
+                    font-size: 50px;
+                }
+                form{
+                    margin-left: 30px;
+                    color: yellow;
+                    font-size: 30px;
+                    font-family: normal;
+                }
+                #p3{     
+                    font-size: 25px;
+                }
+                input{
+                    font-family: cursive;
+                    font-size: 50px;
+                    background-color: rgba(0,0,0,0.4);
+                    border: none;
+                }
+                #p4{
+                    font-size: 31px;
+                }
+                button{
+                    padding-left: 25px!important;
+                    padding-right: 25px!important;
+                    padding-top: 10px!important;
+                    padding-bottom: 10px!important;
+                    border-radius: 30px!important;
+                    margin-left: 100px;
+                    font-size: 20px!important;
+                }
+                button:hover{
+                    background-color: green!important;
+                }
+                .e1{
+                    color: white;
+                }
+                
+                
+        

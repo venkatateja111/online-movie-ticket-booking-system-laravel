@@ -1,0 +1,45 @@
+body{
+                background-color: rgba(0,0,0,0.8);
+                background: url("img/webpic4.jpg");
+                
+            }
+            h2{
+                color: yellow; 
+            }
+            label{
+                color: black;
+            }
+            input:focus{
+                background-color: wheat;
+            }
+            button{
+                 border: none!important;
+                 border-radius: 40px!important;
+            }
+            button:hover{
+                background-color: green!important;
+            }
+            
+            .alert {
+                width:50%;  
+               margin-left: 300px;
+               }
+             .alert button:hover
+               {
+               background-color:  white;
+                  }
+              label{
+                  padding-left: 10px;
+                  }
+                  
+                  footer{
+    
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+.e1{
+  color: black;
+}

@@ -1,0 +1,39 @@
+body{
+                background: url("img/success1.jpg");
+                background-size: cover;
+              
+            }
+            footer{
+                padding: 10px 0;
+                background-color: #101010;
+                color:#9d9d9d;
+                bottom: 0;
+                width: 100%;
+              }
+              .jumbotron{
+                  margin-top:  100px;
+                  font-family: Book Antiqua;
+                  font-size: 100px!important;
+                  text-shadow: 2px 2px 8px violet;
+                  background: rgba(45,78,58,0.9)
+              }
+              h1{
+                  padding-top: 40px;
+                  color: white!important;
+              }
+
+              .btn{
+                padding: 0 20px 0 20px;
+                font-size: 30px;
+                background-color: yellow;
+                color: black;
+                border-radius: 30px;
+              }
+              .btn:hover{
+                background-color: green;
+                color: white;
+              }
+              .but1{
+                float: right;
+                
+              }

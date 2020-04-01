@@ -1,0 +1,48 @@
+body{
+                 background: url("img/webpic4.jpg");
+                 background-size: cover;
+                 }
+            img{
+                width: auto;
+                height: 400px;
+            }
+            h3{
+                color: yellow;
+            }
+            
+            button
+{
+border: none;
+text-decoration:none;
+background-color:blue;
+border-radius: 30px;
+display:block;
+}
+
+button:hover
+{
+background-color:#0EA101  ;
+border-radius: 60px;
+}
+.bt1{
+     margin-left: -3px;
+    border: none;
+   // margin-bottom: -50px;
+    background-color: green;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+footer{
+    
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+ 
+            
